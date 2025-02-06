@@ -1,5 +1,5 @@
 # datamining1
-Report for the Data Mining I Project (Academic Year 2023/2024)
+Data Mining I project report (Academic Year 2023/2024)
 
 ## Data Understanding & Preparation  
 - Data semantics description of variables meaning and characteristics  
